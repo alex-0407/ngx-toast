@@ -2,8 +2,7 @@
 
 ## About
 
-此项目是基于ngx-toastr封装的一个angular5项目。
-
+此项目是基于ngx-toastr，比ngx-toastr用法更简单。
 
 ## 来了就留个 :feet:吧，star一下证明你来过  :stuck_out_tongue_closed_eyes:
 
